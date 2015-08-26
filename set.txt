@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\RootAnalyzer_All\RootAnalyzerV3\images_testing\
+25
+0.05
+1000
+30
+30
+10
+10
+1
+2
+C:\Users\Owner\Documents\RootAnalyzer_all\RootAnalyzerV3\results1\
